@@ -2,7 +2,7 @@
 
 # Python environment installation
 
-**1. Create Python env :** :
+**1. Create Python env :**
  python3 -m venv env
  
 **2. Intall framework requirement :** 
